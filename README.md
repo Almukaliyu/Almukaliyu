@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aliyu Muktar Aliyu
 - 👀 I’m interested in web development, web3.0 cloud computing and so on
-- 🌱 I’m currently learning  fronend development
+- 🌱 I’m currently learning  front-end development
 - 💞️ I’m looking to collaborate on any related web development project
 - 📫 How to reach me whatsapp/telegram: +2347035867985, twitter.com/almukaliyu, facebook.com/almukbornchild
 
